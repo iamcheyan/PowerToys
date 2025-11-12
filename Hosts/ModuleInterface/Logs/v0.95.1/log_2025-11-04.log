@@ -1,0 +1,8 @@
+[2025-11-04 11:06:58.557427] [p-29560] [t-6908] [info] hosts logger is initialized
+[2025-11-04 11:07:04.241898] [p-29560] [t-6908] [trace] HostsModuleInterface::enable()
+[2025-11-04 11:18:16.927371] [p-9284] [t-12000] [info] hosts logger is initialized
+[2025-11-04 11:18:26.412961] [p-9284] [t-12000] [trace] HostsModuleInterface::enable()
+[2025-11-04 12:00:55.882580] [p-18920] [t-18924] [info] hosts logger is initialized
+[2025-11-04 12:00:59.698026] [p-18920] [t-18924] [trace] HostsModuleInterface::enable()
+[2025-11-04 13:43:09.950672] [p-15608] [t-15612] [info] hosts logger is initialized
+[2025-11-04 13:43:14.566501] [p-15608] [t-15612] [trace] HostsModuleInterface::enable()

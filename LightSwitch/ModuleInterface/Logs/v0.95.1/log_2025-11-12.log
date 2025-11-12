@@ -1,0 +1,3 @@
+[2025-11-12 08:55:12.552508] [p-9444] [t-9516] [info] light-switch logger is initialized
+[2025-11-12 08:55:12.553428] [p-9444] [t-9516] [info] [Light Switch] init_settings: starting to load settings for module
+[2025-11-12 08:55:12.563870] [p-9444] [t-9516] [info] [Light Switch] init_settings: loaded successfully

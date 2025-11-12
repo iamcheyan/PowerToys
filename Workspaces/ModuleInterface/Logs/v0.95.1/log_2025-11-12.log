@@ -1,0 +1,10 @@
+[2025-11-12 08:55:12.506669] [p-9444] [t-9516] [info] Workspaces logger is initialized
+[2025-11-12 08:55:12.507341] [p-9444] [t-9516] [trace] Read settings Workspaces
+[2025-11-12 08:55:12.518793] [p-9444] [t-9516] [info] enabled = false
+[2025-11-12 08:55:18.365945] [p-9444] [t-9516] [info] Workspaces enabling
+[2025-11-12 08:55:18.366023] [p-9444] [t-9516] [info] Enable
+[2025-11-12 08:55:18.366383] [p-9444] [t-9516] [info] enabled = true
+[2025-11-12 08:55:18.368667] [p-9444] [t-9516] [info] enabled = true
+[2025-11-12 08:56:43.587173] [p-9444] [t-15772] [info] enabled = true
+[2025-11-12 08:57:12.136277] [p-9444] [t-7464] [info] enabled = true
+[2025-11-12 09:00:27.877243] [p-9444] [t-13992] [info] enabled = true

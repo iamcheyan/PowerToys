@@ -1,0 +1,2 @@
+[2025-11-11 08:56:34.171295] [p-16324] [t-28372] [info] environment-variables logger is initialized
+[2025-11-11 08:56:34.861478] [p-16324] [t-28372] [trace] EnvironmentVariablesModuleInterface::enable()

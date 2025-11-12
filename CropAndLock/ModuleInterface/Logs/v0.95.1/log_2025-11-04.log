@@ -1,0 +1,11 @@
+[2025-11-04 11:06:58.691456] [p-29560] [t-6908] [info] crop-and-lock logger is initialized
+[2025-11-04 11:06:58.693172] [p-29560] [t-6908] [info] CropAndLock settings are empty
+[2025-11-04 11:06:59.600448] [p-29560] [t-6908] [info] CropAndLock enabling
+[2025-11-04 11:07:09.954704] [p-29560] [t-984] [info] Send settings telemetry
+[2025-11-04 11:18:17.111048] [p-9284] [t-12000] [info] crop-and-lock logger is initialized
+[2025-11-04 11:18:17.112760] [p-9284] [t-12000] [info] CropAndLock settings are empty
+[2025-11-04 11:18:21.302921] [p-9284] [t-12000] [info] CropAndLock enabling
+[2025-11-04 12:00:56.020120] [p-18920] [t-18924] [info] crop-and-lock logger is initialized
+[2025-11-04 12:00:56.868788] [p-18920] [t-18924] [info] CropAndLock enabling
+[2025-11-04 13:43:10.110961] [p-15608] [t-15612] [info] crop-and-lock logger is initialized
+[2025-11-04 13:43:11.448057] [p-15608] [t-15612] [info] CropAndLock enabling

@@ -1,0 +1,6 @@
+[2025-11-05 08:37:16.464049] [p-13628] [t-13632] [info] AdvancedPaste logger is initialized
+[2025-11-05 08:37:16.775302] [p-13628] [t-13632] [trace] AdvancedPaste::enable()
+[2025-11-05 08:37:16.775563] [p-13628] [t-13876] [trace] Starting Advanced Paste process
+[2025-11-05 08:37:17.234870] [p-13628] [t-13876] [trace] Successfully started Advanced Paste process
+[2025-11-05 08:37:22.255700] [p-13628] [t-13876] [error] Error waiting for Advanced Paste to connect to named pipe
+[2025-11-05 08:37:22.255972] [p-13628] [t-13876] [error] Named pipe initialization failed; terminating Advanced Paste process

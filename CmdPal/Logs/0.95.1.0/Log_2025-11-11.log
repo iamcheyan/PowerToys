@@ -1,0 +1,21 @@
+[08:56:45.5896163] [Error] UWPApplication.cs::TryLoadIndirectString::214
+    Unable to load resource @{MicrosoftWindows.Client.CoreAI_1000.26100.4061.0_x64__cw5n1h2txyewy? ms-resource:///resources/AIXHost/ClickToDo/AppDisplayName} : ms-resource:AIXHost/ClickToDo/AppDisplayName : Unexpected HRESULT has been returned from a call to a COM component.
+[08:56:45.6160222] [Error] UWPApplication.cs::TryLoadIndirectString::214
+    Unable to load resource @{MicrosoftWindows.Client.CoreAI_1000.26100.4061.0_x64__cw5n1h2txyewy? ms-resource:///resources/AIXHost/ClickToDo/AppDescription} : ms-resource:AIXHost/ClickToDo/AppDescription : Unexpected HRESULT has been returned from a call to a COM component.
+[08:56:47.1939871] [Trace] AllAppsPage.cs::AllAppsPage.BuildListItems took: 3 ms::90
+[08:56:47.3208459] [Error] App.xaml.cs::ConfigureServices::137
+    Couldn't load winget
+[08:56:47.3430258] [Error] App.xaml.cs::ConfigureServices::138
+    System.TypeInitializationException: A type initializer threw an exception. To determine which type, inspect the InnerException's StackTrace property.
+ ---> System.Runtime.InteropServices.COMException (0x80040154): Unexpected HRESULT has been returned from a call to a COM component.
+   at WindowsPackageManager.Interop.WindowsPackageManagerStandardFactory.CreateInstance[T](Guid, Guid) + 0xd6
+   at WindowsPackageManager.Interop.WindowsPackageManagerFactory.CreateInstance[T]() + 0x61
+   at Microsoft.CmdPal.Ext.WinGet.WinGetStatics..cctor() + 0x164
+   at System.Runtime.CompilerServices.ClassConstructorRunner.EnsureClassConstructorRun(StaticClassConstructionContext*) + 0xba
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.ClassConstructorRunner.EnsureClassConstructorRun(StaticClassConstructionContext*) + 0x13c
+   at System.Runtime.CompilerServices.ClassConstructorRunner.CheckStaticClassConstructionReturnNonGCStaticBase(StaticClassConstructionContext*, IntPtr) + 0xd
+   at Microsoft.CmdPal.Ext.WinGet.WinGetExtensionCommandsProvider..ctor() + 0x25f
+   at Microsoft.CmdPal.UI.App.ConfigureServices() + 0x1df
+[09:06:40.7707962] [Error] PackageRepository.cs::AddPackage::97
+    Could not find file 'C:\Program Files\WindowsApps\Microsoft.Copilot_1.25104.66.0_neutral_~_8wekyb3d8bbwe\AppxManifest.xml'.

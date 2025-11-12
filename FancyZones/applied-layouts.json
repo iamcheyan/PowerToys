@@ -1,0 +1,208 @@
+{
+  "applied-layouts": [
+    {
+      "device": {
+        "monitor": "DELA1C4",
+        "monitor-instance": "4\u00262e56cd23\u00261\u0026UID24648",
+        "monitor-number": 2,
+        "serial-number": "9CGB2V3",
+        "virtual-desktop": "{21B69990-E710-4F9D-A2F3-0ADC9EE78982}"
+      },
+      "applied-layout": {
+        "uuid": "{8168A997-C95C-4A17-B2D5-8FC1B27D5285}",
+        "type": "rows",
+        "show-spacing": true,
+        "spacing": 10,
+        "zone-count": 2,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "device": {
+        "monitor": "CMN13D0",
+        "monitor-instance": "4\u00262e56cd23\u00261\u0026UID8388688",
+        "monitor-number": 1,
+        "serial-number": "0",
+        "virtual-desktop": "{21B69990-E710-4F9D-A2F3-0ADC9EE78982}"
+      },
+      "applied-layout": {
+        "uuid": "{00000000-0000-0000-0000-000000000000}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "device": {
+        "monitor": "DELD04D",
+        "monitor-instance": "4\u00262e56cd23\u00261\u0026UID4145",
+        "monitor-number": 3,
+        "serial-number": "8P3VJ3A70JDM",
+        "virtual-desktop": "{21B69990-E710-4F9D-A2F3-0ADC9EE78982}"
+      },
+      "applied-layout": {
+        "uuid": "{CBEB8305-31B1-47B7-B105-7F38F40D2028}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "device": {
+        "monitor": "DELD04D",
+        "monitor-instance": "4\u00262e56cd23\u00261\u0026UID4145",
+        "monitor-number": 2,
+        "serial-number": "8P3VJ3A70JDM",
+        "virtual-desktop": "{21B69990-E710-4F9D-A2F3-0ADC9EE78982}"
+      },
+      "applied-layout": {
+        "uuid": "{00000000-0000-0000-0000-000000000000}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "device": {
+        "monitor": "CMN13D0",
+        "monitor-instance": "4\u00262e56cd23\u00261\u0026UID8388688",
+        "monitor-number": 3,
+        "serial-number": "0",
+        "virtual-desktop": "{21B69990-E710-4F9D-A2F3-0ADC9EE78982}"
+      },
+      "applied-layout": {
+        "uuid": "{00000000-0000-0000-0000-000000000000}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "device": {
+        "monitor": "\\\\.\\DISPLAY2",
+        "monitor-instance": "",
+        "monitor-number": 0,
+        "serial-number": "",
+        "virtual-desktop": "{21B69990-E710-4F9D-A2F3-0ADC9EE78982}"
+      },
+      "applied-layout": {
+        "uuid": "{00000000-0000-0000-0000-000000000000}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "device": {
+        "monitor": "\\\\.\\DISPLAY3",
+        "monitor-instance": "",
+        "monitor-number": 0,
+        "serial-number": "",
+        "virtual-desktop": "{21B69990-E710-4F9D-A2F3-0ADC9EE78982}"
+      },
+      "applied-layout": {
+        "uuid": "{00000000-0000-0000-0000-000000000000}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "device": {
+        "monitor": "DELA1C4",
+        "monitor-instance": "4\u00262e56cd23\u00261\u0026UID8263",
+        "monitor-number": 2,
+        "serial-number": "",
+        "virtual-desktop": "{21B69990-E710-4F9D-A2F3-0ADC9EE78982}"
+      },
+      "applied-layout": {
+        "uuid": "{00000000-0000-0000-0000-000000000000}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "device": {
+        "monitor": "Default_Monitor",
+        "monitor-instance": "1\u00268713bca\u00260\u0026UID0",
+        "monitor-number": 5,
+        "serial-number": "",
+        "virtual-desktop": "{21B69990-E710-4F9D-A2F3-0ADC9EE78982}"
+      },
+      "applied-layout": {
+        "uuid": "{00000000-0000-0000-0000-000000000000}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "device": {
+        "monitor": "DELA1C4",
+        "monitor-instance": "4\u00262e56cd23\u00261\u0026UID24648",
+        "monitor-number": 1,
+        "serial-number": "9CGB2V3",
+        "virtual-desktop": "{21B69990-E710-4F9D-A2F3-0ADC9EE78982}"
+      },
+      "applied-layout": {
+        "uuid": "{00000000-0000-0000-0000-000000000000}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "device": {
+        "monitor": "DELA1C3",
+        "monitor-instance": "4\u00262e56cd23\u00260\u0026UID4145",
+        "monitor-number": 2,
+        "serial-number": "9CGB2V3",
+        "virtual-desktop": "{21B69990-E710-4F9D-A2F3-0ADC9EE78982}"
+      },
+      "applied-layout": {
+        "uuid": "{00000000-0000-0000-0000-000000000000}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "device": {
+        "monitor": "\\\\.\\DISPLAY1",
+        "monitor-instance": "",
+        "monitor-number": 0,
+        "serial-number": "",
+        "virtual-desktop": "{21B69990-E710-4F9D-A2F3-0ADC9EE78982}"
+      },
+      "applied-layout": {
+        "uuid": "{00000000-0000-0000-0000-000000000000}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    }
+  ]
+}

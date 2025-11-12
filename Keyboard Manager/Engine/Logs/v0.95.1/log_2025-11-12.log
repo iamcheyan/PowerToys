@@ -1,0 +1,50 @@
+[2025-11-12 08:55:16.947115] [p-15008] [t-7412] [info] keyboard-manager logger is initialized
+[2025-11-12 08:55:17.000971] [p-15008] [t-7412] [trace] SettingsHelper::LoadSettings()
+[2025-11-12 09:04:51.066475] [p-15008] [t-7204] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-12 09:04:51.066588] [p-15008] [t-7204] [trace] SettingsHelper::LoadSettings()
+[2025-11-12 09:09:22.526346] [p-15008] [t-7204] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-12 09:09:22.526563] [p-15008] [t-7204] [trace] SettingsHelper::LoadSettings()
+[2025-11-12 09:09:23.219522] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:09:24.611543] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:09:25.884903] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:10:03.525554] [p-15008] [t-7204] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-12 09:10:03.525698] [p-15008] [t-7204] [trace] SettingsHelper::LoadSettings()
+[2025-11-12 09:10:05.058197] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:10:34.071134] [p-15008] [t-7204] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-12 09:10:34.071323] [p-15008] [t-7204] [trace] SettingsHelper::LoadSettings()
+[2025-11-12 09:10:36.020066] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:11:07.805245] [p-15008] [t-7204] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-12 09:11:07.805375] [p-15008] [t-7204] [trace] SettingsHelper::LoadSettings()
+[2025-11-12 09:11:10.639032] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:11:12.587221] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:4
+[2025-11-12 09:11:13.265587] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:4
+[2025-11-12 09:11:15.666671] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:4
+[2025-11-12 09:11:34.679617] [p-15008] [t-7204] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-12 09:11:34.679763] [p-15008] [t-7204] [trace] SettingsHelper::LoadSettings()
+[2025-11-12 09:11:36.088940] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:11:43.586997] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:12:19.975879] [p-15008] [t-7204] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-12 09:12:19.975973] [p-15008] [t-7204] [trace] SettingsHelper::LoadSettings()
+[2025-11-12 09:12:22.965804] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:12:23.652702] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:12:25.681290] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:12:26.956358] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:12:29.214531] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:12:34.844164] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:13:01.317339] [p-15008] [t-7204] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-12 09:13:01.317396] [p-15008] [t-7204] [trace] SettingsHelper::LoadSettings()
+[2025-11-12 09:13:03.539032] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:13:09.380144] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:13:11.032648] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:13:49.887823] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:14:13.741261] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:14:38.815859] [p-15008] [t-7204] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-12 09:14:38.815918] [p-15008] [t-7204] [trace] SettingsHelper::LoadSettings()
+[2025-11-12 09:14:41.852344] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:14:44.681944] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:14:46.895900] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:15:06.714461] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:15:09.877742] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:15:46.903064] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:15:50.864112] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-12 09:15:56.448868] [p-15008] [t-7412] [trace] ChordKeyboardHandler:keyEventList.size:5

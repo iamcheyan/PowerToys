@@ -1,0 +1,3 @@
+[2025-11-11 08:56:34.368407] [p-16324] [t-28372] [info] light-switch logger is initialized
+[2025-11-11 08:56:34.369561] [p-16324] [t-28372] [info] [Light Switch] init_settings: starting to load settings for module
+[2025-11-11 08:56:34.383521] [p-16324] [t-28372] [info] [Light Switch] init_settings: loaded successfully

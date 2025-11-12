@@ -1,0 +1,50 @@
+[08:56:36.6263167] [Info] TrayHelper.cs::RunOnMainThread::356
+    Thread execution is on: 6
+[08:56:36.6442558] [Info] TrayHelper.cs::InitializeTray::147
+    Created HWND for the window: 262358
+[08:56:36.6839327] [Info] TrayHelper.cs::RunOnMainThread::356
+    Thread execution is on: 6
+[08:56:36.6996936] [Info] Program.cs::Main::93
+    Launching Awake...
+[08:56:36.7103147] [Info] Program.cs::Main::94
+    0.95.1.0
+[08:56:36.7471439] [Info] Program.cs::Main::95
+    Build: TILLSON_11272024
+[08:56:36.7478720] [Info] Program.cs::Main::96
+    OS: Microsoft Windows NT 10.0.26100.0
+[08:56:36.7595488] [Info] Program.cs::Main::97
+    OS Build: Windows 10 Enterprise 24H2 26100.1.amd64fre.ge_release.240331-1435
+[08:56:36.9681808] [Info] Program.cs::Main::108
+    {"PowerButtonPresent":true,"SleepButtonPresent":true,"LidPresent":true,"SystemS1":false,"SystemS2":false,"SystemS3":false,"SystemS4":true,"SystemS5":true,"HiberFilePresent":true,"FullWake":true,"VideoDimPresent":true,"ApmPresent":false,"UpsPresent":false,"ThermalControl":false,"ProcessorThrottle":false,"ProcessorMinThrottle":0,"ProcessorThrottleScale":0,"Spare2":"AAEBAQ==","ProcessorMaxThrottle":0,"FastSystemS4":true,"Hiberboot":true,"WakeAlarmPresent":false,"AoAc":false,"DiskSpinDown":false,"Spare3":"AAAAAQAAAAA=","HiberFileType":0,"AoAcConnectivitySupported":false,"SystemBatteriesPresent":false,"BatteriesAreShortTerm":false,"BatteryScale":[{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0}],"AcOnLineWake":"PowerSystemHibernate","SoftLidWake":"PowerSystemUnspecified","RtcWake":"PowerSystemUnspecified","MinDeviceWakeState":"PowerSystemUnspecified","DefaultLowLatencyWake":"PowerSystemUnspecified"}
+[08:56:36.9684134] [Info] Program.cs::Main::110
+    Parsing parameters...
+[08:56:37.0598037] [Info] Program.cs::HandleCommandLineArguments::271
+    Starting with PID binding.
+[08:56:37.0600332] [Info] Program.cs::HandleCommandLineArguments::275
+    The value for --use-pt-config is: True
+[08:56:37.0600944] [Info] Program.cs::HandleCommandLineArguments::276
+    The value for --display-on is: True
+[08:56:37.0601413] [Info] Program.cs::HandleCommandLineArguments::277
+    The value for --time-limit is: 0
+[08:56:37.0601852] [Info] Program.cs::HandleCommandLineArguments::278
+    The value for --pid is: 16324
+[08:56:37.0602313] [Info] Program.cs::HandleCommandLineArguments::279
+    The value for --expire-at is: 
+[08:56:37.0602761] [Info] Program.cs::HandleCommandLineArguments::280
+    The value for --use-parent-pid is: False
+[08:56:37.1521463] [Info] Program.cs::HandleCommandLineArguments::303
+    Reading configuration file: C:\Users\hkaku\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[08:56:37.4544986] [Info] Program.cs::ProcessSettings::507
+    Identified custom time shortcuts for the tray: 0
+[08:56:37.4550714] [Info] Manager.cs::SetPassiveKeepAwake::468
+    Operating in passive mode (computer's standard power plan). Invoked by ProcessSettings. No custom keep awake settings enabled.
+[08:56:37.4556399] [Info] Manager.cs::CancelExistingThread::128
+    Ensuring the thread is properly cleaned up...
+[08:56:37.4565225] [Info] Manager.cs::CancelExistingThread::145
+    New token source and thread token instantiated.
+[08:56:37.4573973] [Info] Manager.cs::SetPassiveKeepAwake::496
+    Passive keep-awake starting...
+[08:56:37.4598702] [Info] Manager.cs::StartMonitor::75
+    Setting state to ES_CONTINUOUS
+[08:56:37.4610319] [Info] Program.cs::HandleCommandLineArguments::323
+    Bound to target process while also using PowerToys settings: 16324

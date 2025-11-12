@@ -1,0 +1,789 @@
+[2025-11-11 08:56:32.793775] [p-16324] [t-28372] [info] runner logger is initialized
+[2025-11-11 08:56:32.794033] [p-16324] [t-28372] [info] Running powertoys with cmd args: 
+[2025-11-11 08:56:32.871723] [p-16324] [t-28372] [info] Scoobe: product_version=v0.95.1 last_version_run=v0.95.1
+[2025-11-11 08:56:32.873299] [p-16324] [t-28372] [info] apply_general_settings: {"startup":true,"enabled":{"AdvancedPaste":true,"AlwaysOnTop":true,"Awake":true,"CmdNotFound":false,"CmdPal":true,"ColorPicker":true,"CropAndLock":true,"EnvironmentVariables":true,"FancyZones":true,"File Explorer":true,"File Locksmith":true,"FindMyMouse":true,"Hosts":true,"Image Resizer":true,"Keyboard Manager":true,"LightSwitch":false,"Measure Tool":true,"MouseHighlighter":true,"MouseJump":false,"MousePointerCrosshairs":false,"MouseWithoutBorders":false,"NewPlus":false,"Peek":true,"PowerRename":true,"PowerToys Run":true,"QuickAccent":false,"RegistryPreview":true,"Shortcut Guide":true,"TextExtractor":false,"Workspaces":true,"ZoomIt":false},"show_tray_icon":true,"is_elevated":false,"run_elevated":false,"show_new_updates_toast_notification":true,"download_updates_automatically":false,"show_whats_new_after_updates":true,"enable_experimentation":true,"is_admin":true,"enable_warnings_elevated_apps":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.95.1","ignored_conflict_properties":{"ignored_shortcuts":[]}}
+[2025-11-11 08:56:33.014044] [p-16324] [t-28372] [info] Runner is starting. Elevated=false openOobe=false openScoobe=false showRestartNotificationAfterUpdate=false
+[2025-11-11 08:56:33.063222] [p-16324] [t-28372] [trace] UnRegister hotkey action for FancyZones
+[2025-11-11 08:56:33.119874] [p-16324] [t-28372] [trace] UnRegister hotkey action for File Explorer
+[2025-11-11 08:56:33.167556] [p-16324] [t-28372] [trace] UnRegister hotkey action for Image Resizer
+[2025-11-11 08:56:33.249221] [p-16324] [t-28372] [trace] UnRegister hotkey action for Keyboard Manager
+[2025-11-11 08:56:33.308339] [p-16324] [t-28372] [trace] UnRegister hotkey action for PowerToys Run
+[2025-11-11 08:56:33.308420] [p-16324] [t-28372] [trace] Register hotkey action for PowerToys Run
+[2025-11-11 08:56:33.357473] [p-16324] [t-28372] [trace] UnRegister hotkey action for PowerRename
+[2025-11-11 08:56:33.404792] [p-16324] [t-28372] [trace] UnRegister hotkey action for Shortcut Guide
+[2025-11-11 08:56:33.447248] [p-16324] [t-28372] [trace] UnRegister hotkey action for ColorPicker
+[2025-11-11 08:56:33.447318] [p-16324] [t-28372] [trace] Register hotkey action for ColorPicker
+[2025-11-11 08:56:33.551063] [p-16324] [t-28372] [trace] UnRegister hotkey action for Awake
+[2025-11-11 08:56:33.633625] [p-16324] [t-28372] [trace] UnRegister hotkey action for FindMyMouse
+[2025-11-11 08:56:33.670036] [p-16324] [t-28372] [trace] UnRegister hotkey action for MouseHighlighter
+[2025-11-11 08:56:33.704625] [p-16324] [t-28372] [trace] UnRegister hotkey action for MouseJump
+[2025-11-11 08:56:33.704689] [p-16324] [t-28372] [trace] Register hotkey action for MouseJump
+[2025-11-11 08:56:33.746779] [p-16324] [t-28372] [trace] UnRegister hotkey action for AlwaysOnTop
+[2025-11-11 08:56:33.746853] [p-16324] [t-28372] [trace] Register hotkey action for AlwaysOnTop
+[2025-11-11 08:56:33.819259] [p-16324] [t-28372] [trace] UnRegister hotkey action for MousePointerCrosshairs
+[2025-11-11 08:56:33.819367] [p-16324] [t-28372] [trace] Register hotkey action for MousePointerCrosshairs
+[2025-11-11 08:56:33.819404] [p-16324] [t-28372] [trace] Register hotkey action for MousePointerCrosshairs
+[2025-11-11 08:56:33.846518] [p-16324] [t-28372] [trace] UnRegister hotkey action for QuickAccent
+[2025-11-11 08:56:33.883639] [p-16324] [t-28372] [trace] UnRegister hotkey action for TextExtractor
+[2025-11-11 08:56:33.883708] [p-16324] [t-28372] [trace] Register hotkey action for TextExtractor
+[2025-11-11 08:56:33.924616] [p-16324] [t-28372] [trace] UnRegister hotkey action for AdvancedPaste
+[2025-11-11 08:56:33.924689] [p-16324] [t-28372] [trace] Register hotkey action for AdvancedPaste
+[2025-11-11 08:56:33.924717] [p-16324] [t-28372] [trace] Register hotkey action for AdvancedPaste
+[2025-11-11 08:56:33.924810] [p-16324] [t-28372] [trace] Register hotkey action for AdvancedPaste
+[2025-11-11 08:56:33.924841] [p-16324] [t-28372] [trace] Register hotkey action for AdvancedPaste
+[2025-11-11 08:56:33.950908] [p-16324] [t-28372] [trace] UnRegister hotkey action for File Locksmith
+[2025-11-11 08:56:33.972322] [p-16324] [t-28372] [trace] UnRegister hotkey action for RegistryPreview
+[2025-11-11 08:56:34.041042] [p-16324] [t-28372] [trace] UnRegister hotkey action for Measure Tool
+[2025-11-11 08:56:34.041154] [p-16324] [t-28372] [trace] Register hotkey action for Measure Tool
+[2025-11-11 08:56:34.084543] [p-16324] [t-28372] [trace] UnRegister hotkey action for NewPlus
+[2025-11-11 08:56:34.102828] [p-16324] [t-28372] [trace] UnRegister hotkey action for Hosts
+[2025-11-11 08:56:34.151404] [p-16324] [t-28372] [trace] UnRegister hotkey action for Peek
+[2025-11-11 08:56:34.151487] [p-16324] [t-28372] [trace] Register hotkey action for Peek
+[2025-11-11 08:56:34.172636] [p-16324] [t-28372] [trace] UnRegister hotkey action for EnvironmentVariables
+[2025-11-11 08:56:34.216057] [p-16324] [t-28372] [trace] UnRegister hotkey action for MouseWithoutBorders
+[2025-11-11 08:56:34.216816] [p-16324] [t-28372] [trace] Register hotkey action for MouseWithoutBorders
+[2025-11-11 08:56:34.216881] [p-16324] [t-28372] [trace] Register hotkey action for MouseWithoutBorders
+[2025-11-11 08:56:34.216912] [p-16324] [t-28372] [trace] Register hotkey action for MouseWithoutBorders
+[2025-11-11 08:56:34.216938] [p-16324] [t-28372] [trace] Register hotkey action for MouseWithoutBorders
+[2025-11-11 08:56:34.249793] [p-16324] [t-28372] [trace] UnRegister hotkey action for CropAndLock
+[2025-11-11 08:56:34.249867] [p-16324] [t-28372] [trace] Register hotkey action for CropAndLock
+[2025-11-11 08:56:34.249898] [p-16324] [t-28372] [trace] Register hotkey action for CropAndLock
+[2025-11-11 08:56:34.272514] [p-16324] [t-28372] [trace] UnRegister hotkey action for CmdNotFound
+[2025-11-11 08:56:34.308637] [p-16324] [t-28372] [trace] UnRegister hotkey action for Workspaces
+[2025-11-11 08:56:34.330934] [p-16324] [t-28372] [trace] UnRegister hotkey action for CmdPal
+[2025-11-11 08:56:34.351758] [p-16324] [t-28372] [trace] UnRegister hotkey action for ZoomIt
+[2025-11-11 08:56:34.383691] [p-16324] [t-28372] [trace] UnRegister hotkey action for LightSwitch
+[2025-11-11 08:56:34.383761] [p-16324] [t-28372] [trace] Register hotkey action for LightSwitch
+[2025-11-11 08:56:34.386712] [p-16324] [t-28372] [info] start_enabled_powertoys: Powertoy QuickAccent explicitly disabled
+[2025-11-11 08:56:34.386778] [p-16324] [t-28372] [info] start_enabled_powertoys: Powertoy MousePointerCrosshairs explicitly disabled
+[2025-11-11 08:56:34.386806] [p-16324] [t-28372] [info] start_enabled_powertoys: Powertoy LightSwitch explicitly disabled
+[2025-11-11 08:56:34.386830] [p-16324] [t-28372] [info] start_enabled_powertoys: Powertoy ZoomIt explicitly disabled
+[2025-11-11 08:56:34.386855] [p-16324] [t-28372] [info] start_enabled_powertoys: Powertoy NewPlus explicitly disabled
+[2025-11-11 08:56:34.386890] [p-16324] [t-28372] [info] start_enabled_powertoys: Overriding default enabled value for Keyboard Manager powertoy
+[2025-11-11 08:56:34.386916] [p-16324] [t-28372] [info] start_enabled_powertoys: Powertoy TextExtractor explicitly disabled
+[2025-11-11 08:56:34.386945] [p-16324] [t-28372] [info] start_enabled_powertoys: Powertoy MouseWithoutBorders explicitly disabled
+[2025-11-11 08:56:34.386970] [p-16324] [t-28372] [info] start_enabled_powertoys: Powertoy CmdNotFound explicitly disabled
+[2025-11-11 08:56:34.386995] [p-16324] [t-28372] [info] start_enabled_powertoys: Powertoy MouseJump explicitly disabled
+[2025-11-11 08:56:34.387022] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy AdvancedPaste
+[2025-11-11 08:56:34.387378] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy AlwaysOnTop
+[2025-11-11 08:56:34.645351] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy Awake
+[2025-11-11 08:56:34.672882] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy CmdPal
+[2025-11-11 08:56:34.693576] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy ColorPicker
+[2025-11-11 08:56:34.775630] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy CropAndLock
+[2025-11-11 08:56:34.861371] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy EnvironmentVariables
+[2025-11-11 08:56:34.861906] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy FancyZones
+[2025-11-11 08:56:34.979151] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy File Explorer
+[2025-11-11 08:56:34.979392] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy File Locksmith
+[2025-11-11 08:56:37.036829] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy FindMyMouse
+[2025-11-11 08:56:37.037509] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy Hosts
+[2025-11-11 08:56:37.037780] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy Image Resizer
+[2025-11-11 08:56:39.028568] [p-16324] [t-26276] [trace] Version is up to date
+[2025-11-11 08:56:42.758408] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy Keyboard Manager
+[2025-11-11 08:56:42.844156] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy Measure Tool
+[2025-11-11 08:56:42.844726] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy MouseHighlighter
+[2025-11-11 08:56:42.845866] [p-16324] [t-28372] [trace] shift+win+H shortcut registered
+[2025-11-11 08:56:42.845961] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy Peek
+[2025-11-11 08:56:43.048087] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy PowerRename
+[2025-11-11 08:56:43.722520] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy PowerToys Run
+[2025-11-11 08:56:43.827798] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy RegistryPreview
+[2025-11-11 08:56:43.829706] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy Shortcut Guide
+[2025-11-11 08:56:43.830058] [p-16324] [t-28372] [trace] shift+win+/ shortcut registered
+[2025-11-11 08:56:43.830100] [p-16324] [t-28372] [info] start_enabled_powertoys: Enabling powertoy Workspaces
+[2025-11-11 08:56:43.830574] [p-16324] [t-28372] [trace] ctrl+win+@ shortcut registered
+[2025-11-11 09:03:26.737338] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:07:11.900819] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:07:12.141593] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:07:14.589586] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:07:22.069104] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:07:22.302936] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:07:23.071222] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:07:25.128882] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:07:47.243761] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:08:50.040506] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:09:24.706828] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:09:25.925013] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:10:01.247239] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:10:12.586583] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:11:54.900456] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:12:06.953669] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:12:10.994126] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:12:15.776748] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:15:42.705336] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:21:48.162508] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:21:53.032820] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:23:17.188958] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:23:18.878705] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:23:26.239579] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:23:28.335068] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:24:16.027390] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:24:16.223446] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:24:18.113206] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:24:21.227911] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:24:25.299824] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:24:27.716173] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:24:30.267673] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:24:30.445208] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:24:34.143514] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:29:38.627968] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:39:03.474375] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:39:06.066904] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:39:06.796512] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:39:49.980477] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:39:54.176845] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:39:55.127384] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:39:56.283756] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:52:35.884307] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:52:42.097364] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:52:44.667437] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:52:44.927544] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:52:56.950805] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:54:19.596065] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 09:54:34.567203] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 10:07:44.596430] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 10:17:06.881788] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 10:21:24.273439] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 10:55:28.321133] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 10:56:03.444940] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:21:24.645345] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:21:25.121167] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:21:25.528565] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:21:26.110083] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:24:45.734425] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:27:14.392713] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:27:14.805003] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:27:16.032071] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:27:16.989301] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:27:25.363586] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:27:35.659023] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:27:36.418278] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:27:37.857665] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:27:39.254224] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:27:42.009683] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:37:05.238714] [p-28668] [t-14628] [info] runner logger is initialized
+[2025-11-11 11:37:05.238849] [p-28668] [t-14628] [info] Running powertoys with cmd args: 
+[2025-11-11 11:38:29.768955] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:39:02.278248] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:39:03.319264] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:39:08.731352] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:40:29.498238] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 11:54:03.093109] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:01:42.200551] [p-11004] [t-26220] [info] runner logger is initialized
+[2025-11-11 13:01:42.200734] [p-11004] [t-26220] [info] Running powertoys with cmd args: 
+[2025-11-11 13:02:28.343611] [p-7980] [t-34472] [info] runner logger is initialized
+[2025-11-11 13:02:28.343697] [p-7980] [t-34472] [info] Running powertoys with cmd args: 
+[2025-11-11 13:02:37.310223] [p-16324] [t-28372] [info] apply_general_settings: {"startup":true,"show_tray_icon":true,"is_elevated":false,"run_elevated":false,"is_admin":true,"enable_warnings_elevated_apps":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.95.1","action_name":"","enabled":{"FancyZones":false,"Image Resizer":true,"File Explorer Preview":true,"Shortcut Guide":true,"PowerRename":true,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"CropAndLock":true,"Awake":true,"MouseWithoutBorders":false,"FindMyMouse":true,"MouseHighlighter":true,"MouseJump":false,"AlwaysOnTop":true,"MousePointerCrosshairs":false,"QuickAccent":false,"TextExtractor":false,"AdvancedPaste":true,"Measure Tool":true,"Hosts":true,"File Locksmith":true,"Peek":true,"RegistryPreview":true,"CmdNotFound":false,"EnvironmentVariables":true,"NewPlus":false,"Workspaces":true,"CmdPal":true,"ZoomIt":false,"LightSwitch":false},"show_new_updates_toast_notification":true,"download_updates_automatically":false,"show_whats_new_after_updates":true,"enable_experimentation":true,"ignored_conflict_properties":{"ignored_shortcuts":[]}}
+[2025-11-11 13:02:37.371705] [p-16324] [t-28372] [info] apply_general_settings: Disabling powertoy FancyZones
+[2025-11-11 13:02:37.451918] [p-16324] [t-28372] [error] get_power_toys_settings(): got malformed json for CmdNotFound module
+[2025-11-11 13:02:37.452186] [p-16324] [t-28372] [error] get_power_toys_settings(): got malformed json for EnvironmentVariables module
+[2025-11-11 13:02:37.452309] [p-16324] [t-28372] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2025-11-11 13:02:37.486583] [p-16324] [t-28372] [error] get_power_toys_settings(): got malformed json for Hosts module
+[2025-11-11 13:02:37.488152] [p-16324] [t-28372] [error] get_power_toys_settings(): got malformed json for NewPlus module
+[2025-11-11 13:21:00.201322] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:21:05.785520] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:21:19.255587] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:21:42.739897] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:23:33.608466] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:23:37.921893] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:23:41.464157] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:23:43.251839] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:23:43.755054] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:24:17.068296] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:24:39.238168] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:24:46.610461] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:25:52.892307] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:26:00.288571] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:26:10.512216] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:27:24.153710] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:27:59.716347] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:28:55.227708] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:28:56.942869] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:28:57.475914] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:00.131229] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:03.187894] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:03.782797] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:04.649852] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:04.843365] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:06.549127] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:10.178768] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:11.037773] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:11.946141] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:14.649289] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:17.144772] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:17.853501] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:18.120342] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:19.600447] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:19.750327] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:19.967400] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:21.427162] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:22.910050] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:24.164616] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:24.454065] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:27.458591] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:35.241065] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:29:38.699649] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:32:09.185474] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:32:11.693663] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:32:18.877439] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:32:22.831720] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:33:50.958099] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:34:37.986339] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:39:13.642467] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:39:27.012813] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:41:01.177965] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:41:01.728159] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:41:01.935901] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:41:03.730128] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:41:04.959690] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:41:33.409154] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:41:36.105946] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:41:37.118924] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:41:58.833189] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:35.179433] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:35.392290] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:37.188994] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:40.216368] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:43.843514] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:45.183306] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:46.226109] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:46.990328] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:48.025607] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:48.177959] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:49.286169] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:49.911579] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:52.062986] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:52.488552] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:53.059926] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:53.246459] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:54.656347] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:42:55.776528] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:01.204496] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:04.234052] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:12.956662] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:13.252917] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:13.621496] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:14.659673] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:15.596114] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:16.219676] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:16.500847] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:17.764948] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:19.284350] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:20.376403] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:21.706338] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:22.275100] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:22.594852] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:25.445201] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:25.952270] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:29.226135] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:43:31.282936] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:45:19.505811] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:45:33.186918] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:45:33.380058] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:45:35.109251] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:47:36.585243] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:47:42.642525] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:47:49.421315] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:55:10.768127] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:55:11.930265] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:55:12.943901] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:55:15.209278] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:55:16.394729] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:55:17.453951] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:55:18.249518] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:55:18.537437] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:55:19.585042] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:55:34.998403] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:55:41.379144] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:55:45.205269] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:56:08.186480] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:56:30.726877] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:57:11.336008] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:57:17.666810] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:57:49.937118] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:57:52.507404] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:58:07.779424] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:58:13.994374] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:59:07.562468] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 13:59:11.377757] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:00:39.999648] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:00:41.141859] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:01:08.516671] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:01:12.055984] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:01:15.737455] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:01:37.183341] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:01:39.855351] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:02:39.618700] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:02:40.246304] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:02:40.920650] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:02:41.331581] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:03:29.698362] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:03:33.826340] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:04:28.840158] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:04:31.342185] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:04:34.375505] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:04:36.281240] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:04:42.421109] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:04:43.900173] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:04:45.058355] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:05:17.931692] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:05:19.572014] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:05:20.365245] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:05:21.983453] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:05:23.763830] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:05:30.129083] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:05:33.166914] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:05:33.559985] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:08:17.466367] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:08:39.893172] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:09:10.847660] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:09:20.986051] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:09:22.904603] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:09:27.532172] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:09:50.123355] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:09:51.350199] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:09:54.024981] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:09:55.253616] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:09:55.499074] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:09:58.284964] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:09:58.492162] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:09:58.908952] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:10:01.982765] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:10:03.494729] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:10:04.112760] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:10:05.689809] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:10:06.304093] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:10:07.966700] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:10:10.515868] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:10:11.174543] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:10:11.372074] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:10:11.617957] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:10:11.947767] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:15:19.886804] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:15:22.118310] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:15:25.011245] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:15:26.208898] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:16:19.490905] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:16:27.414109] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:16:29.337370] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:16:58.643340] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:17:00.616169] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:17:01.068282] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:17:01.974569] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:18:32.035166] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:18:32.916774] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:19:03.657422] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:19:04.283698] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:19:38.264639] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:19:53.610586] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:00.228516] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:00.869744] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:23.736411] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:25.885053] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:26.432199] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:27.183417] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:29.419695] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:33.047468] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:33.256612] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:42.965428] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:45.386730] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:47.298595] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:53.033335] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:54.918527] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:21:56.612433] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:22:05.303136] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:22:07.422270] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:22:13.484848] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:22:15.329200] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:22:16.711766] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:22:22.459581] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:22:23.594087] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:22:44.860390] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:22:45.828013] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:22:47.158547] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:22:48.481952] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:22:53.624809] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:22:54.518187] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:24:21.987148] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:24:27.076284] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:24:45.036222] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:24:54.917398] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:25:47.893612] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:26:33.751202] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:26:34.430695] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:27:25.121115] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:27:26.214867] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:27:33.155113] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:27:35.325991] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:27:36.559769] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:27:59.449697] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:28:00.185001] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:28:29.442127] [p-27768] [t-24288] [info] runner logger is initialized
+[2025-11-11 14:28:29.442259] [p-27768] [t-24288] [info] Running powertoys with cmd args: 
+[2025-11-11 14:29:04.741224] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:29:05.548238] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:29:10.044589] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:29:18.942642] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:29:21.555389] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:29:27.985121] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:29:29.784888] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:29:32.999753] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:30:06.715602] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:30:08.465739] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:30:11.252577] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:30:13.435856] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:30:17.243901] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:30:39.319413] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:30:40.490022] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:30:47.872376] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:30:49.450447] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:31:39.594491] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:31:51.339738] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:31:53.282736] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:31:59.918728] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:32:06.078664] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:32:15.664496] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:32:24.196199] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:32:35.964484] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:32:50.076893] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:33:04.269475] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:33:49.237706] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:33:49.849155] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:34:14.086471] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:34:16.075999] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:34:17.019266] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:35:31.421871] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:35:37.167006] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:37:29.958713] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:37:31.375884] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:38:56.521823] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:39:10.883696] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:39:15.937691] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:39:18.167588] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:39:20.998869] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:39:26.964277] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:39:27.774874] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:39:27.936353] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:39:30.456066] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:39:31.423411] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:40:01.371776] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:40:56.400230] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:40:56.750271] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:49:34.380796] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:49:36.017281] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:49:48.036832] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:49:50.590645] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:49:53.445950] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:49:54.738093] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:00.423713] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:08.232986] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:12.963812] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:14.597529] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:16.247875] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:23.393322] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:24.489825] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:27.823487] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:28.593950] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:42.054181] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:44.823732] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:46.908453] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:49.747153] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:50:51.454416] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:56:54.284182] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 14:56:54.621779] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:01:01.497647] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:01:04.761516] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:01:05.371645] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:01:06.404905] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:01:06.579221] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:01:09.189716] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:01:11.946134] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:01:13.590104] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:01:14.530105] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:01:49.842498] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:01:50.070004] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:01:52.047113] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:04:32.182326] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:04:34.553498] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:04:36.436567] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:04:37.222503] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:04:41.543853] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:04:42.651530] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:05:19.271901] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:07:45.248204] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:07:45.390089] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:07:45.678051] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:07:47.547060] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:07:47.866460] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:07:49.132397] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:07:50.140456] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:07:50.279352] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:07:50.541076] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:07:52.739867] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:07:54.854745] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:07:57.296731] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:08:12.939923] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:13:29.429217] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:13:30.561274] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:13:30.886450] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:14:09.219114] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:15:28.447763] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:23:15.806329] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:23:24.805628] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:23:28.595445] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:23:41.345967] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:23:42.354870] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:23:46.417467] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:23:47.460654] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:11.872291] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:15.801558] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:16.000144] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:16.657598] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:17.193341] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:17.769402] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:19.421077] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:24.747685] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:26.631767] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:27.893414] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:29.339067] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:29.789000] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:31.741897] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:32.921252] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:32:34.227370] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:34:20.951164] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:34:21.503555] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:34:22.553518] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:36:10.545535] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:36:11.439746] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:36:14.124487] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:36:14.668280] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:36:17.612253] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:50:10.954263] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:50:11.632457] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:54:38.147924] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:54:39.899205] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:54:48.086660] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:54:48.452388] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:54:50.345016] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:54:50.924708] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:54:53.937945] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:54:58.129318] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:55:01.147181] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:55:02.346323] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:55:02.558384] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:55:03.962511] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:55:12.244679] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:55:13.991713] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:55:14.513145] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:55:14.883517] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:56:33.456123] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:56:35.377548] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:56:36.195180] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:56:36.459316] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:56:37.116298] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:56:38.091981] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:56:38.737197] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:56:38.893756] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:56:51.518053] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:56:51.904817] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:56:52.106248] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:56:58.384021] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:56:58.531408] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:57:02.926292] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:58:26.272856] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:58:30.249228] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:58:32.382748] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:58:36.084817] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:58:36.239982] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:58:36.876271] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:58:41.380925] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 15:58:42.849305] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:00:10.760100] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:00:12.795481] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:00:13.983611] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:00:16.111704] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:00:17.360394] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:00:17.699057] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:01:17.422319] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:01:22.535327] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:01:23.269787] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:01:31.254465] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:01:40.454983] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:01:42.395969] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:01:43.176509] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:01:43.555171] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:23:27.121787] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:23:53.911028] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:23:54.131594] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:25:01.378197] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:25:07.111444] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:25:09.239413] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:25:12.789314] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:25:20.895950] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:25:22.049314] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:25:24.165150] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:25:26.539916] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:25:27.032288] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:25:29.510822] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:27:06.891645] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:27:11.332298] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:27:12.312983] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:27:26.077765] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:27:26.260016] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:27:26.673125] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:27:26.958036] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:27:29.795992] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:27:45.914395] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:27:46.655370] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:28:15.919031] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:28:16.352978] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:28:16.572532] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:28:16.819517] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:28:18.072124] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:28:18.304719] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:28:21.371287] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:28:21.651402] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:28:22.069094] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:28:22.232304] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:31:00.515402] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:38:54.573650] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:39:06.298698] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:39:07.539882] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:39:08.542954] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:39:53.852230] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:39:54.470759] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:39:55.948976] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:39:57.627759] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:39:58.354868] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:39:58.997388] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:40:01.422692] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:40:02.319857] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:40:03.077065] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:40:36.932039] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:44:41.159866] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:44:41.767203] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:44:44.368537] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:45:58.099597] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:51:20.151979] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:51:20.343272] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:51:21.013703] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:51:21.934435] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:51:22.933582] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:51:25.606331] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:51:30.451324] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:51:30.668912] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:51:31.609552] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:52:40.801521] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 16:54:00.089489] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:01:19.528620] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:01:21.108607] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:01:22.700769] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:01:23.653493] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:01:42.366709] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:01:45.543396] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:01:47.405375] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:30:02.708807] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:30:18.663018] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:30:22.105446] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:30:24.346089] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:30:25.152963] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:30:26.397359] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:35:03.936022] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:35:05.125858] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:37:30.479940] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:37:31.662489] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:37:34.181901] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:37:34.769389] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:38:22.862413] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:38:23.539051] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:38:24.064806] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:38:24.384925] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:39:02.479559] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:39:41.468716] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:39:45.523212] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:44:14.002002] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:44:14.145082] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:44:15.109241] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:45:19.061213] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:51:07.972596] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:51:24.663909] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:51:28.536082] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 17:51:30.101020] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:04:08.349319] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:04:18.723969] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:04:20.700556] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:04:22.258785] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:04:23.284257] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:04:33.122314] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:04:35.712447] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:05:24.010941] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:05:39.241925] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:06:16.830085] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:06:20.260248] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:07:14.800414] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:12:22.689890] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:12:23.981169] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:21:57.245659] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:25:19.249644] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:25:21.286961] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:25:21.765411] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:25:22.293001] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:25:22.455233] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:25:23.154937] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:25:24.297948] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:30:11.901752] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:31:18.331990] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:31:21.091718] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:31:57.824651] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:32:00.637583] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:32:04.251825] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:32:07.199695] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:32:08.483469] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:32:10.196985] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:32:11.070720] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:32:11.254142] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:44:45.767062] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:44:49.171974] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:44:49.348168] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:44:53.386387] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:44:54.010996] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:44:54.822424] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:44:55.377563] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:44:57.652713] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:44:58.501651] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:45:03.397180] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:46:46.397082] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:46:52.006789] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:47:46.308511] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:47:48.235735] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:47:48.471535] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:47:48.959156] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:47:50.592746] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:47:50.755502] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:47:57.217269] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:47:58.525848] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:47:58.688571] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:48:01.969255] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:48:02.531211] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:48:02.690559] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:48:05.696707] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:48:05.966295] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:48:46.363593] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:49:05.765134] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:49:06.458236] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:49:08.680159] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:49:08.897559] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:49:10.276180] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:49:20.262207] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:49:21.195840] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:49:22.059864] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:49:23.584682] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:49:25.086404] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:49:26.598842] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:50:02.592638] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:50:06.319800] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:50:14.142953] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:52:14.740003] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:52:17.710060] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:52:20.126237] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:52:21.259816] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:52:22.535754] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook
+[2025-11-11 18:52:23.500522] [p-16324] [t-28372] [trace] Peek hotkey is invoked from Centralized keyboard hook

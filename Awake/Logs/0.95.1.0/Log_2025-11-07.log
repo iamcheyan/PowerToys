@@ -1,0 +1,60 @@
+[14:27:08.2856682] [Info] TrayHelper.cs::RunOnMainThread::356
+    Thread execution is on: 6
+[14:27:08.3007238] [Info] TrayHelper.cs::InitializeTray::147
+    Created HWND for the window: 66256
+[14:27:08.3095969] [Info] TrayHelper.cs::SetShellIcon::226
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66045 and HWnd is 66256. Invoked by InitializeTray.
+[14:27:08.4258259] [Info] TrayHelper.cs::SetShellIcon::226
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66045 and HWnd is 66256. Invoked by InitializeTray.
+[14:27:08.5444945] [Info] TrayHelper.cs::SetShellIcon::226
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66045 and HWnd is 66256. Invoked by InitializeTray.
+[14:27:08.5469686] [Error] TrayHelper.cs::SetShellIcon::230
+    Failed to change tray icon after 3 attempts. Action: Add and error code: -2147467259. Invoked by InitializeTray.
+[14:27:08.5483739] [Info] TrayHelper.cs::RunOnMainThread::356
+    Thread execution is on: 6
+[14:27:09.0489570] [Info] Program.cs::Main::93
+    Launching Awake...
+[14:27:09.0570966] [Info] Program.cs::Main::94
+    0.95.1.0
+[14:27:09.0573314] [Info] Program.cs::Main::95
+    Build: TILLSON_11272024
+[14:27:09.0758682] [Info] Program.cs::Main::96
+    OS: Microsoft Windows NT 10.0.26100.0
+[14:27:09.1423691] [Info] Program.cs::Main::97
+    OS Build: Windows 10 Enterprise 24H2 26100.1.amd64fre.ge_release.240331-1435
+[14:27:09.8816224] [Info] Program.cs::Main::108
+    {"PowerButtonPresent":true,"SleepButtonPresent":true,"LidPresent":true,"SystemS1":false,"SystemS2":false,"SystemS3":false,"SystemS4":true,"SystemS5":true,"HiberFilePresent":true,"FullWake":true,"VideoDimPresent":true,"ApmPresent":false,"UpsPresent":false,"ThermalControl":false,"ProcessorThrottle":false,"ProcessorMinThrottle":0,"ProcessorThrottleScale":0,"Spare2":"AAEBAQ==","ProcessorMaxThrottle":0,"FastSystemS4":true,"Hiberboot":true,"WakeAlarmPresent":false,"AoAc":false,"DiskSpinDown":false,"Spare3":"AAAAAQAAAAA=","HiberFileType":0,"AoAcConnectivitySupported":false,"SystemBatteriesPresent":false,"BatteriesAreShortTerm":false,"BatteryScale":[{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0}],"AcOnLineWake":"PowerSystemHibernate","SoftLidWake":"PowerSystemUnspecified","RtcWake":"PowerSystemUnspecified","MinDeviceWakeState":"PowerSystemUnspecified","DefaultLowLatencyWake":"PowerSystemUnspecified"}
+[14:27:09.8819114] [Info] Program.cs::Main::110
+    Parsing parameters...
+[14:27:10.9896836] [Info] TrayHelper.cs::WndProc::338
+    Taskbar re-created
+[14:27:11.1183639] [Info] Program.cs::HandleCommandLineArguments::271
+    Starting with PID binding.
+[14:27:11.1211192] [Info] Program.cs::HandleCommandLineArguments::275
+    The value for --use-pt-config is: True
+[14:27:11.1218198] [Info] Program.cs::HandleCommandLineArguments::276
+    The value for --display-on is: True
+[14:27:11.1222454] [Info] Program.cs::HandleCommandLineArguments::277
+    The value for --time-limit is: 0
+[14:27:11.1223987] [Info] Program.cs::HandleCommandLineArguments::278
+    The value for --pid is: 12484
+[14:27:11.1226350] [Info] Program.cs::HandleCommandLineArguments::279
+    The value for --expire-at is: 
+[14:27:11.1524011] [Info] Program.cs::HandleCommandLineArguments::280
+    The value for --use-parent-pid is: False
+[14:27:11.2443478] [Info] Program.cs::HandleCommandLineArguments::303
+    Reading configuration file: C:\Users\hkaku\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[14:27:13.1404755] [Info] Program.cs::ProcessSettings::507
+    Identified custom time shortcuts for the tray: 0
+[14:27:13.1527698] [Info] Manager.cs::SetPassiveKeepAwake::468
+    Operating in passive mode (computer's standard power plan). Invoked by ProcessSettings. No custom keep awake settings enabled.
+[14:27:13.1541801] [Info] Manager.cs::CancelExistingThread::128
+    Ensuring the thread is properly cleaned up...
+[14:27:13.1712578] [Info] Manager.cs::CancelExistingThread::145
+    New token source and thread token instantiated.
+[14:27:13.1760746] [Info] Manager.cs::StartMonitor::75
+    Setting state to ES_CONTINUOUS
+[14:27:13.1866186] [Info] Manager.cs::SetPassiveKeepAwake::496
+    Passive keep-awake starting...
+[14:27:13.3212042] [Info] Program.cs::HandleCommandLineArguments::323
+    Bound to target process while also using PowerToys settings: 12484

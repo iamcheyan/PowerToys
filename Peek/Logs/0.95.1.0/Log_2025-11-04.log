@@ -1,0 +1,4 @@
+[12:58:35.1540843] [Info] PreviewSettings.cs::LoadSettingsFromJson::64
+    Peek preview-settings.json was missing, creating a new one
+[15:46:13.6896184] [Error] DefaultAppHelper.cs::TryGetDefaultAppName::25
+    Error when getting accessString for  file: Value does not fall within the expected range.

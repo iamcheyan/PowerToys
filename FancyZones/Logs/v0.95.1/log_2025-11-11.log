@@ -1,0 +1,802 @@
+[2025-11-11 08:52:32.280317] [p-14132] [t-14136] [info] Display changed, type: DisplayChange
+[2025-11-11 08:52:32.296724] [p-14132] [t-14136] [debug] Update work areas, update windows positions: true
+[2025-11-11 08:52:32.297104] [p-14132] [t-14136] [info] Identifying monitors
+[2025-11-11 08:52:32.299539] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:32.446939] [p-14132] [t-14136] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 08:52:32.447153] [p-14132] [t-14136] [info] Serial number: 0
+[2025-11-11 08:52:32.449138] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:32.497181] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:32.499486] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:32.544277] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:32.546425] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:32.597371] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:32.599474] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:32.646234] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:32.648823] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:32.690860] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:32.696502] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:32.757349] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:32.760170] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:32.803278] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:32.805385] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:32.893504] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:32.895504] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:32.991335] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.001082] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.059637] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.062239] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.144852] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.148621] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.195042] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.196945] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.232637] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.235436] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.278881] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.281033] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.343287] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.345288] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.388978] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.391378] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.452445] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.454363] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.555795] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.557785] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.682612] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.684818] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.782741] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.787445] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.848897] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.851311] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.895119] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.897955] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:33.941228] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:33.954097] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.010499] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.012897] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.063169] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.073337] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.140632] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.147706] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.201815] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.203943] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.248870] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.252215] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.294546] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.296647] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.338852] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.340711] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.388963] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.390817] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.431228] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.433321] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.478568] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.480999] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.524729] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.526775] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.572642] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.574257] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.614870] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.616667] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.662044] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.664009] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.710837] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.713384] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.757553] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.759352] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.806997] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.808866] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.856953] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.858668] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.903980] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.905912] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.948839] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.950939] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:34.996210] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:34.998099] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.046528] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.048482] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.094330] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.097467] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.140933] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.142891] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.188898] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.190767] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.237218] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.239037] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.285174] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.287634] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.332278] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.334467] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.383871] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.387128] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.442799] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.444915] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.494350] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.496866] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.539131] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.541074] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.588406] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.590403] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.641614] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.643885] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.682820] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.684817] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.729876] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.731809] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.780905] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.782797] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.825582] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.827302] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.873363] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.875515] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.921259] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.922897] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:35.966676] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:35.968288] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.015821] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.017471] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.063585] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.065359] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.111951] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.114005] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.159862] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.161466] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.208082] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.209673] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.255186] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.257896] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.303297] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.306014] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.349705] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.351418] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.398913] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.400934] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.445333] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.447139] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.522220] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.524022] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.557412] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.559262] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.604268] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.606879] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.652119] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.654130] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.698569] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.702701] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.746105] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.748123] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.793787] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.795836] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.828752] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.830663] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.868652] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.871343] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.916981] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.918585] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:36.968172] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:36.969690] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.015573] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.018823] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.061815] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.063836] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.110553] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.112512] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.160267] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.161978] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.204770] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.206433] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.251901] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.253434] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.300218] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.302495] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.348157] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.350062] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.394577] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.396104] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.440961] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.442315] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.491360] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.493308] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.537111] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.539325] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.585373] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.587211] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.631668] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.633266] [p-14132] [t-14136] [info] Retry display identification
+[2025-11-11 08:52:37.678925] [p-14132] [t-14136] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:52:37.680782] [p-14132] [t-14136] [trace] DeviceId changed
+[2025-11-11 08:52:37.680868] [p-14132] [t-14136] [info] Freeing ZonesOverlay window into pool, hWnd = 0x202c0
+[2025-11-11 08:52:37.705658] [p-14132] [t-14136] [info] Freeing ZonesOverlay window into pool, hWnd = 0x102f6
+[2025-11-11 08:52:37.731653] [p-14132] [t-14136] [info] Freeing ZonesOverlay window into pool, hWnd = 0x102e8
+[2025-11-11 08:52:37.759254] [p-14132] [t-14136] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 08:52:37.759801] [p-14132] [t-14136] [info] Reusing ZonesOverlay window from pool, hWnd = 0x102e8
+[2025-11-11 08:52:37.864568] [p-14132] [t-14136] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 08:52:37.864740] [p-14132] [t-14136] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 08:52:37.865938] [p-14132] [t-14136] [info] Reusing ZonesOverlay window from pool, hWnd = 0x102f6
+[2025-11-11 08:52:37.931581] [p-14132] [t-14136] [info] Initialize layout on \\.\DISPLAY2__2__{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1032
+[2025-11-11 08:52:37.931775] [p-14132] [t-14136] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 08:52:37.932819] [p-14132] [t-14136] [info] Reusing ZonesOverlay window from pool, hWnd = 0x202c0
+[2025-11-11 08:52:38.062758] [p-14132] [t-14136] [info] Initialize layout on \\.\DISPLAY3__3__{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 08:56:35.545113] [p-24216] [t-22608] [info] fancyzones logger is initialized
+[2025-11-11 08:56:35.758554] [p-24216] [t-22608] [trace] FancyZonesSettings::LoadSettings Enter
+[2025-11-11 08:56:35.795153] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 08:56:35.866577] [p-24216] [t-22608] [trace] FancyZonesSettings::LoadSettings Exit
+[2025-11-11 08:56:35.874056] [p-24216] [t-22608] [info] layout-templates.json file is missing or malformed
+[2025-11-11 08:56:35.874982] [p-24216] [t-22608] [info] custom-layouts.json file is missing or malformed
+[2025-11-11 08:56:35.876832] [p-24216] [t-22608] [info] layout-hotkeys.json file is missing or malformed
+[2025-11-11 08:56:36.047405] [p-24216] [t-22608] [error] app-zone-history.json file is missing or malformed
+[2025-11-11 08:56:36.053616] [p-24216] [t-22608] [info] default-layouts.json file is missing or malformed
+[2025-11-11 08:56:36.254812] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 08:56:36.255173] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 08:56:36.262629] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 08:56:36.263443] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:56:36.264051] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:56:36.264580] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:56:36.739672] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 08:56:36.739797] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 08:56:36.767287] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 08:56:36.767574] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 08:56:36.768772] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 08:56:36.768855] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 08:56:36.773597] [p-24216] [t-22608] [info] Display changed, type: Initialization
+[2025-11-11 08:56:36.773687] [p-24216] [t-22608] [debug] Update work areas, update windows positions: false
+[2025-11-11 08:56:36.773823] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 08:56:36.774755] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:56:36.775561] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:56:36.776361] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 08:56:36.957532] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 08:56:36.957718] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 08:56:36.960801] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 08:56:36.960871] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 08:56:36.962160] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 08:56:36.962216] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 08:56:37.016143] [p-24216] [t-22608] [trace] Monitor was added or removed
+[2025-11-11 08:56:37.016262] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 08:56:37.022135] [p-24216] [t-22608] [info] Creating new ZonesOverlay window, hWnd = 0x2003c
+[2025-11-11 08:56:37.356452] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 08:56:37.358181] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 08:56:37.359880] [p-24216] [t-22608] [info] Creating new ZonesOverlay window, hWnd = 0x10414
+[2025-11-11 08:56:37.779756] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1032
+[2025-11-11 08:56:37.779856] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 08:56:37.781971] [p-24216] [t-22608] [info] Creating new ZonesOverlay window, hWnd = 0x10464
+[2025-11-11 08:56:38.047677] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 10:25:53.538211] [p-24216] [t-22608] [info] Display changed, type: DisplayChange
+[2025-11-11 10:25:53.538355] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 10:25:53.538416] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 10:25:53.562466] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:25:53.570495] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:25:53.570964] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:25:53.623777] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 10:25:53.623896] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 10:25:53.624224] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 10:25:53.624282] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 10:25:53.624569] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 10:25:53.624618] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 10:25:53.625059] [p-24216] [t-22608] [trace] WorkArea size changed
+[2025-11-11 10:25:53.625128] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2003c
+[2025-11-11 10:25:53.746751] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10414
+[2025-11-11 10:25:53.823352] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10464
+[2025-11-11 10:25:53.848305] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:25:53.853861] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10464
+[2025-11-11 10:25:53.983362] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 10:25:53.983482] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:25:53.983844] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10414
+[2025-11-11 10:25:54.034598] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 10:25:54.034679] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:25:54.034995] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2003c
+[2025-11-11 10:25:54.086387] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 10:26:03.679012] [p-24216] [t-22608] [info] Display changed, type: DisplayChange
+[2025-11-11 10:26:03.679117] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 10:26:03.679230] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 10:26:03.680027] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:26:03.680483] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:26:03.681154] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:26:03.696822] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 10:26:03.696909] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 10:26:03.697114] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 10:26:03.697136] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 10:26:03.697431] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 10:26:03.697514] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 10:26:37.131556] [p-24216] [t-22608] [info] Display changed, type: DisplayChange
+[2025-11-11 10:26:37.131685] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 10:26:37.131819] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 10:26:37.133485] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:26:37.148617] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 10:26:37.148701] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 10:26:37.149057] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 10:26:37.149084] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 10:26:37.150303] [p-24216] [t-22608] [trace] Monitor was added or removed
+[2025-11-11 10:26:37.150390] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10464
+[2025-11-11 10:26:37.206570] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10414
+[2025-11-11 10:26:37.240372] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2003c
+[2025-11-11 10:26:37.266158] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:26:37.267136] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2003c
+[2025-11-11 10:26:37.352931] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_1_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 10:26:37.407948] [p-24216] [t-22608] [info] Display changed, type: WorkArea
+[2025-11-11 10:26:37.408073] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 10:26:37.408205] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 10:26:37.408752] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:26:37.415833] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 10:26:37.415964] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 10:26:37.416302] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 10:26:37.416375] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 10:26:51.992634] [p-24216] [t-22608] [info] Display changed, type: DisplayChange
+[2025-11-11 10:26:51.992768] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 10:26:51.992873] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 10:26:51.994157] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:26:51.994641] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:26:51.995053] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:26:52.011725] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 10:26:52.011827] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 10:26:52.012147] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 10:26:52.012199] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 10:26:52.012472] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 10:26:52.012519] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 10:26:52.013210] [p-24216] [t-22608] [trace] Monitor was added or removed
+[2025-11-11 10:26:52.013273] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2003c
+[2025-11-11 10:26:52.063735] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:26:52.079769] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2003c
+[2025-11-11 10:26:52.186889] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 10:26:52.186957] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:26:52.189677] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10414
+[2025-11-11 10:26:52.253796] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 10:26:52.253896] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:26:52.254664] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10464
+[2025-11-11 10:26:52.375230] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 10:26:52.471263] [p-24216] [t-22608] [info] Display changed, type: WorkArea
+[2025-11-11 10:26:52.471381] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 10:26:52.471490] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 10:26:52.472744] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:26:52.473463] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:26:52.474005] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:26:52.481224] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 10:26:52.481311] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 10:26:52.481667] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 10:26:52.481770] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 10:26:52.482005] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 10:26:52.482029] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 10:28:21.011320] [p-24216] [t-22608] [info] Display changed, type: DisplayChange
+[2025-11-11 10:28:21.011400] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 10:28:21.011463] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 10:28:21.012003] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:28:21.012266] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:28:21.012505] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:28:21.036407] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 10:28:21.036489] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 10:28:21.037083] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 10:28:21.037149] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 10:28:21.037593] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 10:28:21.037657] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 10:28:21.038666] [p-24216] [t-22608] [trace] WorkArea size changed
+[2025-11-11 10:28:21.038731] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2003c
+[2025-11-11 10:28:21.119446] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10414
+[2025-11-11 10:28:21.158100] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10464
+[2025-11-11 10:28:21.191206] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:28:21.194713] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10464
+[2025-11-11 10:28:21.337638] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 10:28:21.337761] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:28:21.338138] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10414
+[2025-11-11 10:28:21.386479] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 10:28:21.386596] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:28:21.386842] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2003c
+[2025-11-11 10:28:21.437038] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 10:28:43.726526] [p-24216] [t-22608] [info] Display changed, type: DisplayChange
+[2025-11-11 10:28:43.726626] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 10:28:43.726817] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 10:28:43.727464] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:28:43.728159] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:28:43.728681] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:28:43.742237] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 10:28:43.742367] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 10:28:43.742710] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 10:28:43.742781] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 10:28:43.743055] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 10:28:43.743108] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 10:28:43.743805] [p-24216] [t-22608] [trace] WorkArea size changed
+[2025-11-11 10:28:43.743926] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10464
+[2025-11-11 10:28:43.825943] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10414
+[2025-11-11 10:28:43.910558] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2003c
+[2025-11-11 10:28:43.965369] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:28:43.977996] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2003c
+[2025-11-11 10:28:44.072520] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 10:28:44.072597] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:28:44.077736] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10414
+[2025-11-11 10:28:44.139112] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 10:28:44.139213] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:28:44.142947] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10464
+[2025-11-11 10:28:44.201446] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1050
+[2025-11-11 10:28:44.270523] [p-24216] [t-22608] [info] Display changed, type: WorkArea
+[2025-11-11 10:28:44.270660] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 10:28:44.270763] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 10:28:44.272035] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:28:44.272514] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:28:44.272969] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:28:44.277903] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 10:28:44.278010] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 10:28:44.278322] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 10:28:44.278436] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 10:28:44.278647] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 10:28:44.278668] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 10:28:44.278855] [p-24216] [t-22608] [trace] WorkArea size changed
+[2025-11-11 10:28:44.278877] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2003c
+[2025-11-11 10:28:44.296633] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10414
+[2025-11-11 10:28:44.322275] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10464
+[2025-11-11 10:28:44.351735] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:28:44.352168] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10464
+[2025-11-11 10:28:44.425482] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 10:28:44.425607] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:28:44.426555] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10414
+[2025-11-11 10:28:44.476389] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 10:28:44.476459] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 10:28:44.477009] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2003c
+[2025-11-11 10:28:44.525938] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 10:28:44.583491] [p-24216] [t-22608] [info] Display changed, type: WorkArea
+[2025-11-11 10:28:44.583581] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 10:28:44.583693] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 10:28:44.584980] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:28:44.585741] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:28:44.586337] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 10:28:44.592995] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 10:28:44.593054] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 10:28:44.593613] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 10:28:44.593684] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 10:28:44.594022] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 10:28:44.594091] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 11:44:54.881968] [p-24216] [t-22608] [trace] FancyZonesSettings::LoadSettings Enter
+[2025-11-11 11:44:54.883447] [p-24216] [t-22608] [trace] FancyZonesSettings::LoadSettings Exit
+[2025-11-11 11:45:02.083152] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Enter
+[2025-11-11 11:45:02.083365] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:45:02.083420] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:45:02.083432] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:45:02.083444] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:45:02.083460] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:45:02.083473] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:45:02.391174] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Exit
+[2025-11-11 11:45:08.562829] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Enter
+[2025-11-11 11:45:08.563178] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:45:08.563354] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:45:08.563470] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:45:08.563533] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:45:08.563762] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:45:08.564246] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:45:08.584561] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Exit
+[2025-11-11 11:45:14.150108] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 11:45:14.154430] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 11:45:14.154702] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 11:45:14.209194] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 11:45:14.210020] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 11:45:14.211208] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 11:45:14.224622] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 11:45:14.225275] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 11:45:14.225648] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 11:45:40.490603] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Enter
+[2025-11-11 11:45:40.490718] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:45:40.490765] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:45:40.490777] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:45:40.490788] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:45:40.490797] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:45:40.490809] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:45:40.509087] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Exit
+[2025-11-11 11:45:42.935303] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 11:45:42.937025] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 11:45:42.938156] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 11:45:47.629573] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Enter
+[2025-11-11 11:45:47.629676] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:45:47.629744] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:45:47.629759] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:45:47.629799] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:45:47.629826] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:45:47.629840] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:45:47.648681] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Exit
+[2025-11-11 11:45:51.933685] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 11:45:51.934417] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 11:45:51.934835] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 11:45:54.558231] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 11:45:54.558711] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 11:45:54.559119] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 11:45:54.633099] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 11:45:54.634161] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 11:45:54.635118] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 11:46:14.549127] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {25D288A6-4E70-4ECE-A101-290E6B05FA0A}
+[2025-11-11 11:46:16.342210] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {25D288A6-4E70-4ECE-A101-290E6B05FA0A}
+[2025-11-11 11:46:20.071657] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {25D288A6-4E70-4ECE-A101-290E6B05FA0A}
+[2025-11-11 11:46:34.204147] [p-24216] [t-22608] [info] Remove app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {25D288A6-4E70-4ECE-A101-290E6B05FA0A}
+[2025-11-11 11:46:42.203687] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Enter
+[2025-11-11 11:46:42.203939] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:46:42.204090] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:46:42.204135] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:46:42.204179] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:46:42.204216] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:46:42.204257] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:46:42.223210] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Exit
+[2025-11-11 11:46:57.069291] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 11:46:57.070704] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 11:46:57.071685] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 11:47:11.867444] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 11:47:11.868818] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 11:47:11.870185] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 11:47:11.880570] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 11:47:11.881362] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 11:47:11.881977] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 11:47:13.948652] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 11:47:13.950025] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 11:47:13.951143] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 11:47:17.181329] [p-24216] [t-22608] [info] Remove app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {F54C3034-83CE-4472-8A6F-9DABDE6A65FE}
+[2025-11-11 11:47:17.185540] [p-24216] [t-22608] [info] Remove app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {F54C3034-83CE-4472-8A6F-9DABDE6A65FE}
+[2025-11-11 11:47:17.818909] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {F54C3034-83CE-4472-8A6F-9DABDE6A65FE}
+[2025-11-11 11:47:19.517220] [p-24216] [t-22608] [info] Remove app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {F54C3034-83CE-4472-8A6F-9DABDE6A65FE}
+[2025-11-11 11:47:19.518194] [p-24216] [t-22608] [info] Remove app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {F54C3034-83CE-4472-8A6F-9DABDE6A65FE}
+[2025-11-11 11:47:20.802813] [p-24216] [t-22608] [info] Remove app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {F54C3034-83CE-4472-8A6F-9DABDE6A65FE}
+[2025-11-11 11:47:21.414485] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {F54C3034-83CE-4472-8A6F-9DABDE6A65FE}
+[2025-11-11 11:47:34.305456] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Enter
+[2025-11-11 11:47:34.305951] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:47:34.306156] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:47:34.306193] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:47:34.306470] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:47:34.306517] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 11:47:34.306542] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 11:47:34.326160] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Exit
+[2025-11-11 11:47:46.901076] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 11:47:46.903662] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 11:47:46.904663] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 11:47:49.996832] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 11:47:49.998354] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 11:47:49.999381] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 11:47:53.571368] [p-24216] [t-22608] [info] Remove app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 11:47:53.574700] [p-24216] [t-22608] [info] Remove app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 11:47:55.518232] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 11:47:57.056357] [p-24216] [t-22608] [info] Remove app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 11:47:57.090431] [p-24216] [t-22608] [info] Remove app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 11:47:57.702015] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 11:56:24.974594] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 11:56:54.934481] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 12:02:01.912331] [p-24216] [t-22608] [info] Display changed, type: DisplayChange
+[2025-11-11 12:02:01.912430] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 12:02:01.912536] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 12:02:01.913202] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 12:02:01.913644] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 12:02:01.955840] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 12:02:01.955970] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 12:02:01.956315] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 12:02:01.956429] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 12:02:01.957309] [p-24216] [t-22608] [trace] Monitor was added or removed
+[2025-11-11 12:02:01.957379] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10464
+[2025-11-11 12:02:02.016197] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10414
+[2025-11-11 12:02:02.059664] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2003c
+[2025-11-11 12:02:02.094523] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 12:02:02.096879] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2003c
+[2025-11-11 12:02:02.206276] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1032
+[2025-11-11 12:02:02.206776] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 12:02:02.207712] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10414
+[2025-11-11 12:02:02.275900] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 12:02:02.358595] [p-24216] [t-22608] [info] Get explorer.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 12:02:02.358722] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 12:02:02.359387] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 12:02:02.362349] [p-24216] [t-22608] [info] Get EXCEL.EXE zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 12:02:02.362449] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 12:02:02.363504] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 12:02:02.366561] [p-24216] [t-22608] [info] Get Code.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 12:02:02.366645] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 12:02:02.367324] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 12:02:02.370800] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 12:02:02.377191] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 12:02:02.382226] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:23.415956] [p-24216] [t-22608] [info] Display changed, type: WorkArea
+[2025-11-11 13:00:23.416084] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 13:00:23.416152] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 13:00:23.416752] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:23.417039] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:23.417346] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:23.458080] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 13:00:23.458167] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 13:00:23.458471] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 13:00:23.458517] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 13:00:23.458769] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 13:00:23.458813] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 13:00:23.459737] [p-24216] [t-22608] [trace] Monitor was added or removed
+[2025-11-11 13:00:23.460150] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2003c
+[2025-11-11 13:00:23.550584] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10414
+[2025-11-11 13:00:23.622451] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:23.623146] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10414
+[2025-11-11 13:00:23.728134] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 13:00:23.728298] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:23.731436] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2003c
+[2025-11-11 13:00:23.809309] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 13:00:23.809412] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:23.810112] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10464
+[2025-11-11 13:00:23.878682] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 13:00:23.955634] [p-24216] [t-22608] [info] Get explorer.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:23.955722] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:23.956588] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:23.960020] [p-24216] [t-22608] [info] Get EXCEL.EXE zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:23.960151] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:23.961200] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:23.985925] [p-24216] [t-22608] [info] Get Code.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:23.986023] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:23.987228] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:23.991011] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:23.998767] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:24.004407] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:24.196369] [p-24216] [t-22608] [info] Display changed, type: WorkArea
+[2025-11-11 13:00:24.196473] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 13:00:24.196586] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 13:00:24.197385] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:24.197961] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:24.198328] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:24.206855] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 13:00:24.206959] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 13:00:24.207278] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 13:00:24.207346] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 13:00:24.207648] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 13:00:24.207706] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 13:00:24.208479] [p-24216] [t-22608] [trace] WorkArea size changed
+[2025-11-11 13:00:24.208548] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10414
+[2025-11-11 13:00:24.243551] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10464
+[2025-11-11 13:00:24.270923] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2003c
+[2025-11-11 13:00:24.293774] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.295394] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2003c
+[2025-11-11 13:00:24.382876] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 13:00:24.382959] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.383826] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10464
+[2025-11-11 13:00:24.436185] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1050
+[2025-11-11 13:00:24.436275] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.437612] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10414
+[2025-11-11 13:00:24.518967] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1200
+[2025-11-11 13:00:24.661543] [p-24216] [t-22608] [info] Get explorer.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.661657] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.662510] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:24.665240] [p-24216] [t-22608] [info] Get EXCEL.EXE zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.665309] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.667118] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:24.669937] [p-24216] [t-22608] [info] Get Code.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.670073] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.671157] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:24.675288] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:24.696576] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:24.716784] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:24.725185] [p-24216] [t-22608] [info] Display changed, type: WorkArea
+[2025-11-11 13:00:24.725285] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 13:00:24.725401] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 13:00:24.727713] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:24.728317] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:24.729192] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:24.744024] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 13:00:24.744147] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 13:00:24.744517] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 13:00:24.744586] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 13:00:24.744889] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 13:00:24.744943] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 13:00:24.813203] [p-24216] [t-22608] [info] Get explorer.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.813328] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.814410] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:24.817522] [p-24216] [t-22608] [info] Get EXCEL.EXE zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.817618] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.818358] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:24.821440] [p-24216] [t-22608] [info] Get Code.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.821520] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:24.822209] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:24.825584] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:24.829757] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:24.834255] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:25.035024] [p-24216] [t-22608] [info] Display changed, type: DisplayChange
+[2025-11-11 13:00:25.035154] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 13:00:25.035287] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 13:00:25.036261] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:25.036842] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:25.037320] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:25.044129] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 13:00:25.044218] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 13:00:25.044492] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 13:00:25.044523] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 13:00:25.044914] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 13:00:25.044984] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 13:00:25.131246] [p-24216] [t-22608] [info] Get explorer.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:25.131369] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:25.132070] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:25.135158] [p-24216] [t-22608] [info] Get EXCEL.EXE zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:25.135243] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:25.135984] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:25.138442] [p-24216] [t-22608] [info] Get Code.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:25.138488] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:25.139012] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:25.141202] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:25.148464] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:25.156606] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:25.909981] [p-24216] [t-22608] [info] Display changed, type: WorkArea
+[2025-11-11 13:00:25.910048] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 13:00:25.910120] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 13:00:25.910868] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:25.911188] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:25.911828] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:25.928769] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 13:00:25.928864] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 13:00:25.929256] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 13:00:25.929320] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 13:00:25.929638] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 13:00:25.929689] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 13:00:25.930655] [p-24216] [t-22608] [trace] WorkArea size changed
+[2025-11-11 13:00:25.930726] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2003c
+[2025-11-11 13:00:25.964773] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10414
+[2025-11-11 13:00:25.996618] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10464
+[2025-11-11 13:00:26.011820] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.012937] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10464
+[2025-11-11 13:00:26.103521] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 13:00:26.103737] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.104093] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10414
+[2025-11-11 13:00:26.163874] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1050
+[2025-11-11 13:00:26.164057] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.164181] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2003c
+[2025-11-11 13:00:26.223206] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 13:00:26.256518] [p-24216] [t-22608] [info] Get explorer.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.256628] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.257261] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:26.260682] [p-24216] [t-22608] [info] Get EXCEL.EXE zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.260778] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.262027] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:26.265080] [p-24216] [t-22608] [info] Get Code.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.265165] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.266074] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:26.270316] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:26.274432] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:26.278186] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:26.363668] [p-24216] [t-22608] [info] Display changed, type: WorkArea
+[2025-11-11 13:00:26.363731] [p-24216] [t-22608] [debug] Update work areas, update windows positions: true
+[2025-11-11 13:00:26.363799] [p-24216] [t-22608] [info] Identifying monitors
+[2025-11-11 13:00:26.364462] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#DELA1C4#4&2e56cd23&1&UID24648#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:26.364757] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#DELD04D#4&2e56cd23&1&UID4145#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:26.365039] [p-24216] [t-22608] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#CMN13D0#4&2e56cd23&1&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-11-11 13:00:26.370146] [p-24216] [t-22608] [info] InstanceName: DISPLAY\CMN13D0\4&2e56cd23&1&UID8388688_0
+[2025-11-11 13:00:26.370242] [p-24216] [t-22608] [info] Serial number: 0
+[2025-11-11 13:00:26.370555] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELD04D\4&2e56cd23&1&UID4145_0
+[2025-11-11 13:00:26.370616] [p-24216] [t-22608] [info] Serial number: 8P3VJ3A70JDM
+[2025-11-11 13:00:26.370900] [p-24216] [t-22608] [info] InstanceName: DISPLAY\DELA1C4\4&2e56cd23&1&UID24648_0
+[2025-11-11 13:00:26.370955] [p-24216] [t-22608] [info] Serial number: 9CGB2V3
+[2025-11-11 13:00:26.371777] [p-24216] [t-22608] [trace] WorkArea size changed
+[2025-11-11 13:00:26.371855] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10464
+[2025-11-11 13:00:26.409845] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2003c
+[2025-11-11 13:00:26.445521] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10414
+[2025-11-11 13:00:26.464771] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.466636] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10414
+[2025-11-11 13:00:26.549737] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 13:00:26.549844] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.550245] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2003c
+[2025-11-11 13:00:26.610384] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 13:00:26.610512] [p-24216] [t-22608] [debug] Add new work area on virtual desktop {21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.610795] [p-24216] [t-22608] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10464
+[2025-11-11 13:00:26.664491] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 13:00:26.704368] [p-24216] [t-22608] [info] Get explorer.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.704448] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.705368] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:26.708309] [p-24216] [t-22608] [info] Get EXCEL.EXE zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.708395] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.709145] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:26.711846] [p-24216] [t-22608] [info] Get Code.exe zone history on work area: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.711926] [p-24216] [t-22608] [info] App zone history found on the work area DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}
+[2025-11-11 13:00:26.712824] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:26.715717] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:26.718169] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:00:26.721059] [p-24216] [t-22608] [info] Add app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:01:21.271949] [p-24216] [t-22608] [info] Remove app zone history, device: DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, layout: {8168A997-C95C-4A17-B2D5-8FC1B27D5285}
+[2025-11-11 13:01:49.432312] [p-24216] [t-22608] [trace] FancyZonesSettings::LoadSettings Enter
+[2025-11-11 13:01:49.433860] [p-24216] [t-22608] [trace] FancyZonesSettings::LoadSettings Exit
+[2025-11-11 13:01:49.443288] [p-24216] [t-22608] [trace] FancyZonesSettings::LoadSettings Enter
+[2025-11-11 13:01:49.444314] [p-24216] [t-22608] [trace] FancyZonesSettings::LoadSettings Exit
+[2025-11-11 13:01:56.505036] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Enter
+[2025-11-11 13:01:56.505332] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 13:01:56.505376] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 13:01:56.505496] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 13:01:56.505526] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 13:01:56.505572] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-11-11 13:01:56.505601] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-11-11 13:01:56.538645] [p-24216] [t-22608] [trace] FancyZones::ToggleEditor Exit
+[2025-11-11 13:02:05.838233] [p-24216] [t-22608] [info] Initialize layout on DELA1C4_4&2e56cd23&1&UID24648_2_9CGB2V3_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1080x1872
+[2025-11-11 13:02:05.840127] [p-24216] [t-22608] [info] Initialize layout on CMN13D0_4&2e56cd23&1&UID8388688_1_0_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1920x1128
+[2025-11-11 13:02:05.841372] [p-24216] [t-22608] [info] Initialize layout on DELD04D_4&2e56cd23&1&UID4145_3_8P3VJ3A70JDM_{21B69990-E710-4F9D-A2F3-0ADC9EE78982}, work area rect = 1680x1002
+[2025-11-11 13:02:35.228029] [p-24216] [t-22608] [trace] FancyZonesSettings::LoadSettings Enter
+[2025-11-11 13:02:35.229081] [p-24216] [t-22608] [trace] FancyZonesSettings::LoadSettings Exit
+[2025-11-11 13:02:35.234919] [p-24216] [t-22608] [trace] FancyZonesSettings::LoadSettings Enter
+[2025-11-11 13:02:35.235869] [p-24216] [t-22608] [trace] FancyZonesSettings::LoadSettings Exit
+[2025-11-11 13:02:37.372251] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10414
+[2025-11-11 13:02:37.384310] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10464
+[2025-11-11 13:02:37.397485] [p-24216] [t-22608] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2003c
+[2025-11-11 13:02:37.411839] [p-24216] [t-30192] [trace] OnThreadExecutor::worker_thread(loop) Exit

@@ -1,0 +1,4 @@
+[2025-11-11 08:56:34.329686] [p-16324] [t-28372] [info] CmdPal logger is initialized
+[2025-11-11 08:56:34.672948] [p-16324] [t-28372] [trace] CmdPal::enable()
+[2025-11-11 08:56:34.693251] [p-16324] [t-28372] [trace] First attempt, try to launch
+[2025-11-11 08:56:34.754623] [p-16324] [t-12216] [info] CmdPal launched successfully after 0 retries.

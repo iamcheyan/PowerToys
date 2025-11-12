@@ -1,0 +1,24 @@
+[2025-11-05 09:12:20.622202] [p-21060] [t-10780] [info] keyboard-manager logger is initialized
+[2025-11-05 09:12:20.660469] [p-21060] [t-10780] [trace] Created/Opened Local\PowerToys_KBMEditor_InstanceMutex mutex
+[2025-11-05 09:12:20.660584] [p-21060] [t-10780] [trace] Editor started from the settings with pid 4240
+[2025-11-05 09:12:20.661039] [p-21060] [t-10780] [trace] SettingsHelper::LoadSettings()
+[2025-11-05 09:12:20.662148] [p-21060] [t-10780] [trace] CreateEditShortcutsWindowImpl()
+[2025-11-05 09:12:20.662197] [p-21060] [t-10780] [trace] Signaled PowerToys_KeyboardManager_Event_EditorWindow event to suspend the KBM engine
+[2025-11-05 09:12:20.699149] [p-21060] [t-10780] [info] Theme is now Dark
+[2025-11-05 09:12:20.702436] [p-21060] [t-10780] [trace] XamlBridge2::InitBridge()
+[2025-11-05 09:12:21.095718] [p-21060] [t-10780] [trace] XamlBridge2::MessageLoop()
+[2025-11-05 09:12:38.575654] [p-21060] [t-10780] [trace] Signaled PowerToys_KeyboardManager_Event_Settings event
+[2025-11-05 09:12:38.640530] [p-21060] [t-10780] [trace] XamlBridge2::MessageLoop() stopped
+[2025-11-05 09:12:38.659215] [p-21060] [t-10780] [trace] Terminating process 21060
+[2025-11-05 15:56:26.594225] [p-9136] [t-24464] [info] keyboard-manager logger is initialized
+[2025-11-05 15:56:26.638600] [p-9136] [t-24464] [trace] Created/Opened Local\PowerToys_KBMEditor_InstanceMutex mutex
+[2025-11-05 15:56:26.638690] [p-9136] [t-24464] [trace] Editor started from the settings with pid 5756
+[2025-11-05 15:56:26.639139] [p-9136] [t-24464] [trace] SettingsHelper::LoadSettings()
+[2025-11-05 15:56:26.640307] [p-9136] [t-24464] [trace] CreateEditShortcutsWindowImpl()
+[2025-11-05 15:56:26.640368] [p-9136] [t-24464] [trace] Signaled PowerToys_KeyboardManager_Event_EditorWindow event to suspend the KBM engine
+[2025-11-05 15:56:26.682355] [p-9136] [t-24464] [info] Theme is now Dark
+[2025-11-05 15:56:26.684764] [p-9136] [t-24464] [trace] XamlBridge2::InitBridge()
+[2025-11-05 15:56:27.328054] [p-9136] [t-24464] [trace] XamlBridge2::MessageLoop()
+[2025-11-05 15:56:37.124473] [p-9136] [t-24464] [trace] Signaled PowerToys_KeyboardManager_Event_Settings event
+[2025-11-05 15:56:37.197427] [p-9136] [t-24464] [trace] XamlBridge2::MessageLoop() stopped
+[2025-11-05 15:56:37.214379] [p-9136] [t-24464] [trace] Terminating process 9136

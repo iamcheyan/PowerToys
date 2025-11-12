@@ -1,0 +1,162 @@
+[2025-11-04 11:28:22.554572] [p-18656] [t-16952] [info] keyboard-manager logger is initialized
+[2025-11-04 11:28:22.591971] [p-18656] [t-16952] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 11:28:23.107014] [p-18656] [t-16952] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 12:01:02.522234] [p-17928] [t-17952] [info] keyboard-manager logger is initialized
+[2025-11-04 12:01:02.640247] [p-17928] [t-17952] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 12:01:03.149686] [p-17928] [t-17952] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 13:23:51.671920] [p-17928] [t-18996] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-04 13:23:51.672268] [p-17928] [t-18996] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 13:23:54.719708] [p-17928] [t-17952] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 13:25:11.183007] [p-17928] [t-18996] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-04 13:25:11.183144] [p-17928] [t-18996] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 13:25:39.452192] [p-17928] [t-17952] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 13:26:25.896866] [p-17928] [t-18996] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-04 13:26:25.897027] [p-17928] [t-18996] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 13:27:08.576165] [p-17928] [t-18996] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-04 13:27:08.576393] [p-17928] [t-18996] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 13:27:22.405048] [p-17928] [t-18996] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-04 13:27:22.405186] [p-17928] [t-18996] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 13:28:19.625182] [p-17928] [t-18996] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-04 13:28:19.625347] [p-17928] [t-18996] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 13:28:26.719566] [p-17928] [t-17952] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 13:28:55.726886] [p-17928] [t-18996] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-04 13:28:55.727086] [p-17928] [t-18996] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 13:43:16.598885] [p-17092] [t-17096] [info] keyboard-manager logger is initialized
+[2025-11-04 13:43:17.230402] [p-17092] [t-17096] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 14:41:28.833399] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 15:11:44.945677] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 15:53:17.068024] [p-17092] [t-15840] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-04 15:53:17.068199] [p-17092] [t-15840] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 15:53:49.628466] [p-17092] [t-15840] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-04 15:53:49.628545] [p-17092] [t-15840] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 16:10:12.943324] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:11:02.475216] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:11:12.225677] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:11:14.102831] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:11:14.599343] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:14:10.827328] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:24:30.490286] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:26:20.191309] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:26:21.904120] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:27:14.382838] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:27:18.572691] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:29:25.161585] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:29:26.363864] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:38:54.743088] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:39:40.416922] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:42:39.474400] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:45:50.805952] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:46:13.094312] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:46:16.268764] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:47:01.916569] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:47:16.964707] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:47:21.270621] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:48:07.632086] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:48:50.897354] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:49:08.145301] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:49:12.234988] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:49:47.340420] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:51:00.459914] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:51:30.108646] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:51:37.001492] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:51:52.672106] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:51:56.251029] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:52:10.789906] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:52:11.571769] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:52:20.948144] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:52:24.303557] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:52:25.339877] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:52:26.462351] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:52:29.894977] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:52:53.896454] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:52:55.754369] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:52:56.962061] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:52:57.849159] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:53:07.089362] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:53:09.573631] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:53:10.761163] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:53:14.599635] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:53:17.882216] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:53:18.974935] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:53:25.649218] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:53:38.452229] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:53:43.592177] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:53:54.534306] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:53:55.570304] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:54:01.246540] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:54:36.320139] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:54:52.605057] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:54:55.987250] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:54:56.535091] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:55:04.051098] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:55:04.508657] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:55:28.628242] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:55:49.590565] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:55:52.826161] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:55:56.044820] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:55:59.615960] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:56:12.504002] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:56:27.118081] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 16:56:33.933314] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:01:12.848656] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:01:15.955903] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:02:37.744842] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:03:16.700317] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:05:01.979747] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:05:42.355376] [p-17092] [t-15840] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-04 17:05:42.355528] [p-17092] [t-15840] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 17:05:44.095523] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:05:48.515147] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:06:08.647023] [p-17092] [t-15840] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-04 17:06:08.647177] [p-17092] [t-15840] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 17:06:10.983168] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:06:12.774620] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:07:12.540853] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:07:18.768638] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:09:43.053176] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:09:45.000566] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:09:46.710028] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:12:04.202524] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:12:07.622297] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:12:32.596737] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:12:57.207368] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:12:58.541137] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:13:38.223969] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:13:40.823077] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:14:28.151508] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:14:29.924622] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:17:59.856035] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:39:20.581741] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:41:11.573792] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:41:21.059871] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:41:23.347724] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:41:32.816696] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:41:36.949737] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:41:43.495117] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:41:46.819166] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:42:15.901571] [p-17092] [t-15840] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
+[2025-11-04 17:42:15.901656] [p-17092] [t-15840] [trace] SettingsHelper::LoadSettings()
+[2025-11-04 17:42:17.979190] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:42:48.971172] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:42:56.455438] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:43:01.901099] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:44:23.636066] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:44:29.955762] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:44:47.390260] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:44:49.351345] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:44:50.827924] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:45:20.119329] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:45:20.804124] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:45:24.283425] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:46:40.744899] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:46:45.757839] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:47:16.929001] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:47:17.636956] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:47:20.517029] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:47:27.342667] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:47:31.031549] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:56:21.250655] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:56:22.127971] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 17:56:25.807779] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 18:03:25.688981] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
+[2025-11-04 18:05:59.283782] [p-17092] [t-17096] [trace] ChordKeyboardHandler:keyEventList.size:5
