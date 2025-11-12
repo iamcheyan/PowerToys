@@ -1,3 +1,3 @@
-Settings/Logs/*
-RunnerLogs/*
+# 忽略所有日志文件（全局规则）
 *.log
+**/*.log

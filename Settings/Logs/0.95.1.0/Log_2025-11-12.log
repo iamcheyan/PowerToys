@@ -52,3 +52,7 @@
     Previous instance of Keyboard Manager editor exited
 [09:30:26.6095895] [Info] KeyboardManagerViewModel.cs::OpenEditor::301
     Starting Keyboard Manager editor from C:\Users\hkaku\AppData\Local\PowerToys\KeyboardManagerEditor\PowerToys.KeyboardManagerEditor.exe
+[09:44:41.2272748] [Info] KeyboardManagerViewModel.cs::OpenEditor::259
+    Previous instance of Keyboard Manager editor exited
+[09:44:41.2277256] [Info] KeyboardManagerViewModel.cs::OpenEditor::301
+    Starting Keyboard Manager editor from C:\Users\hkaku\AppData\Local\PowerToys\KeyboardManagerEditor\PowerToys.KeyboardManagerEditor.exe
