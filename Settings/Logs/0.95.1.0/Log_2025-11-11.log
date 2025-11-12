@@ -1,7 +1,0 @@
-[13:02:37.3025039] [Error] DashboardViewModel.cs::ModuleEnabledChangedOnSettingsPage::161
-    Updating active/disabled modules list failed: エラーを特定できません
-
-エラーを特定できません
-
-[14:58:12.5242639] [Info] KeyboardManagerViewModel.cs::OpenEditor::301
-    Starting Keyboard Manager editor from C:\Users\hkaku\AppData\Local\PowerToys\KeyboardManagerEditor\PowerToys.KeyboardManagerEditor.exe
